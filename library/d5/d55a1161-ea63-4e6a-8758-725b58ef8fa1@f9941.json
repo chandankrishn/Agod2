@@ -1,0 +1,30 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "ICE-PICO",
+    "atlas": "",
+    "rect": {
+      "x": 0,
+      "y": 0,
+      "width": 976,
+      "height": 1363
+    },
+    "offset": {
+      "x": 0,
+      "y": 0
+    },
+    "originalSize": {
+      "width": 976,
+      "height": 1363
+    },
+    "rotated": false,
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "texture": "d55a1161-ea63-4e6a-8758-725b58ef8fa1@6c48a",
+    "packable": true
+  }
+}

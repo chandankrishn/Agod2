@@ -1,0 +1,30 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "gameButtons",
+    "atlas": "",
+    "rect": {
+      "x": 32,
+      "y": 36,
+      "width": 237,
+      "height": 80
+    },
+    "offset": {
+      "x": 0.5,
+      "y": 0
+    },
+    "originalSize": {
+      "width": 300,
+      "height": 152
+    },
+    "rotated": false,
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "texture": "a3535148-aa33-4175-8752-7192af6931b6@6c48a",
+    "packable": true
+  }
+}

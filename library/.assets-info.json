@@ -1,0 +1,202 @@
+{
+  "/Users/chandan/DragonCard_Cocos/aGod/assets/texture.meta": {
+    "time": 1648547927531.3606
+  },
+  "/Users/chandan/DragonCard_Cocos/aGod/assets/texture": {
+    "time": 1648549062448.069,
+    "uuid": "c3dac1d2-0620-4f5f-8147-b6b6df5bc5be",
+    "missing": false
+  },
+  "/Users/chandan/DragonCard_Cocos/aGod/assets/script.meta": {
+    "time": 1648547912955.599
+  },
+  "/Users/chandan/DragonCard_Cocos/aGod/assets/script": {
+    "time": 1648547912954.379,
+    "uuid": "e237cd69-3951-4892-82c3-3ae37b64b6c7",
+    "missing": false
+  },
+  "/Users/chandan/DragonCard_Cocos/aGod/assets/resources.meta": {
+    "time": 1648547970418.328
+  },
+  "/Users/chandan/DragonCard_Cocos/aGod/assets/resources": {
+    "time": 1648548671088.8596,
+    "uuid": "6794c52a-9c8d-4839-9824-13ffd42c9326",
+    "missing": false
+  },
+  "/Users/chandan/DragonCard_Cocos/aGod/assets/scene.meta": {
+    "time": 1648548008907.7717
+  },
+  "/Users/chandan/DragonCard_Cocos/aGod/assets/scene": {
+    "time": 1648548018673.9607,
+    "uuid": "b5b1d312-361e-4bfd-ad96-824eac73208b",
+    "missing": false
+  },
+  "/Users/chandan/DragonCard_Cocos/aGod/assets/scene/Home.scene.meta": {
+    "time": 1648548001882.187
+  },
+  "/Users/chandan/DragonCard_Cocos/aGod/assets/scene/Home.scene": {
+    "time": 1648551373978.007,
+    "uuid": "b5435787-a510-48f6-bc95-7d68e23a2ff6",
+    "missing": false
+  },
+  "/Users/chandan/DragonCard_Cocos/aGod/assets/prefab.meta": {
+    "time": 1648548015661.158
+  },
+  "/Users/chandan/DragonCard_Cocos/aGod/assets/prefab": {
+    "time": 1648548015660.19,
+    "uuid": "2fba504e-ca3c-477d-9ff2-d2b997157a39",
+    "missing": false
+  },
+  "/Users/chandan/DragonCard_Cocos/aGod/assets/texture/Home.meta": {
+    "time": 1648548545992.583
+  },
+  "/Users/chandan/DragonCard_Cocos/aGod/assets/texture/Home": {
+    "time": 1648549512054.9414,
+    "uuid": "8db2b590-494b-4fda-89b3-49f96e8c22e8",
+    "missing": false
+  },
+  "/Users/chandan/DragonCard_Cocos/aGod/assets/resources/DragonsData.meta": {
+    "time": 1648548602543.1375
+  },
+  "/Users/chandan/DragonCard_Cocos/aGod/assets/resources/DragonsData": {
+    "time": 1648548619254.2617,
+    "uuid": "12f1c9ee-f0f8-441b-8ced-65813aa1f1cb",
+    "missing": false
+  },
+  "/Users/chandan/DragonCard_Cocos/aGod/assets/resources/DragonsData/AlexAlien.json.meta": {
+    "time": 1648548619253.407
+  },
+  "/Users/chandan/DragonCard_Cocos/aGod/assets/resources/DragonsData/GruntFire.json.meta": {
+    "time": 1648548619253.5542
+  },
+  "/Users/chandan/DragonCard_Cocos/aGod/assets/resources/DragonsData/OtisGold.json.meta": {
+    "time": 1648548619254.1567
+  },
+  "/Users/chandan/DragonCard_Cocos/aGod/assets/resources/DragonsData/OlyRobot.json.meta": {
+    "time": 1648548619254.2085
+  },
+  "/Users/chandan/DragonCard_Cocos/aGod/assets/resources/DragonsData/PicoGhost.json.meta": {
+    "time": 1648548619254.2832
+  },
+  "/Users/chandan/DragonCard_Cocos/aGod/assets/resources/DragonsData/PicoIce.json.meta": {
+    "time": 1648548619254.342
+  },
+  "/Users/chandan/DragonCard_Cocos/aGod/assets/resources/DragonsData/AlexAlien.json": {
+    "time": 1648548619250.7,
+    "uuid": "be89a2c9-f34e-4c3e-a990-9cb30e546d28",
+    "missing": false
+  },
+  "/Users/chandan/DragonCard_Cocos/aGod/assets/resources/DragonsData/GruntFire.json": {
+    "time": 1648548619251.7585,
+    "uuid": "23c454fd-dccb-4482-87bb-8164b9d2b69e",
+    "missing": false
+  },
+  "/Users/chandan/DragonCard_Cocos/aGod/assets/resources/DragonsData/OtisGold.json": {
+    "time": 1648548619252.2327,
+    "uuid": "a2343acd-8460-40d2-8b5d-6973e1c31699",
+    "missing": false
+  },
+  "/Users/chandan/DragonCard_Cocos/aGod/assets/resources/DragonsData/OlyRobot.json": {
+    "time": 1648548619252.164,
+    "uuid": "98be39e4-973e-43b4-9763-fcc9751c414e",
+    "missing": false
+  },
+  "/Users/chandan/DragonCard_Cocos/aGod/assets/resources/DragonsData/PicoGhost.json": {
+    "time": 1648548619252.511,
+    "uuid": "a06c6d7f-2944-4fdf-9594-5f033d10f79f",
+    "missing": false
+  },
+  "/Users/chandan/DragonCard_Cocos/aGod/assets/resources/DragonsData/PicoIce.json": {
+    "time": 1648548619252.5693,
+    "uuid": "99e6727b-0c85-407a-b71a-7adc63e9d850",
+    "missing": false
+  },
+  "/Users/chandan/DragonCard_Cocos/aGod/assets/resources/DragonImages.meta": {
+    "time": 1648548671089.3477
+  },
+  "/Users/chandan/DragonCard_Cocos/aGod/assets/resources/DragonImages": {
+    "time": 1648548828145.983,
+    "uuid": "da6acc30-263b-43b8-8aa5-27d3bacb2ca5",
+    "missing": false
+  },
+  "/Users/chandan/DragonCard_Cocos/aGod/assets/resources/DragonImages/ALIEN-ALEX.png.meta": {
+    "time": 1648548800218.5315
+  },
+  "/Users/chandan/DragonCard_Cocos/aGod/assets/resources/DragonImages/ALIEN-ALEX.png": {
+    "time": 1648548745196.303,
+    "uuid": "9d990af8-7713-404f-b978-3742a404702c",
+    "missing": false
+  },
+  "/Users/chandan/DragonCard_Cocos/aGod/assets/resources/DragonImages/FIRE-GRUNT.png.meta": {
+    "time": 1648548805690.7231
+  },
+  "/Users/chandan/DragonCard_Cocos/aGod/assets/resources/DragonImages/FIRE-GRUNT.png": {
+    "time": 1648548745195.9558,
+    "uuid": "b3ac6422-870d-4c6e-95a1-756522373fb2",
+    "missing": false
+  },
+  "/Users/chandan/DragonCard_Cocos/aGod/assets/resources/DragonImages/GHOST-PICO.png.meta": {
+    "time": 1648548810982.3196
+  },
+  "/Users/chandan/DragonCard_Cocos/aGod/assets/resources/DragonImages/GHOST-PICO.png": {
+    "time": 1648548745194.4724,
+    "uuid": "7ca7a18d-af5c-40b6-8e5e-9268e4f94029",
+    "missing": false
+  },
+  "/Users/chandan/DragonCard_Cocos/aGod/assets/resources/DragonImages/GOLD-OTIS.png.meta": {
+    "time": 1648548816962.9275
+  },
+  "/Users/chandan/DragonCard_Cocos/aGod/assets/resources/DragonImages/GOLD-OTIS.png": {
+    "time": 1648548745194.2747,
+    "uuid": "fc134404-3089-47f3-ae72-42e6319aee91",
+    "missing": false
+  },
+  "/Users/chandan/DragonCard_Cocos/aGod/assets/resources/DragonImages/ICE-PICO.png.meta": {
+    "time": 1648548822632.584
+  },
+  "/Users/chandan/DragonCard_Cocos/aGod/assets/resources/DragonImages/ICE-PICO.png": {
+    "time": 1648548745194.0627,
+    "uuid": "d55a1161-ea63-4e6a-8758-725b58ef8fa1",
+    "missing": false
+  },
+  "/Users/chandan/DragonCard_Cocos/aGod/assets/resources/DragonImages/ROBOT-OLY.png.meta": {
+    "time": 1648548828175.1472
+  },
+  "/Users/chandan/DragonCard_Cocos/aGod/assets/resources/DragonImages/ROBOT-OLY.png": {
+    "time": 1648548745194.1875,
+    "uuid": "eb986fe7-00e5-4f8c-8217-c301da70aeb6",
+    "missing": false
+  },
+  "/Users/chandan/DragonCard_Cocos/aGod/assets/texture/Home/PikPng.com_double-arrow-png_633167.png.meta": {
+    "time": 1648548857870.7764
+  },
+  "/Users/chandan/DragonCard_Cocos/aGod/assets/texture/Home/PikPng.com_double-arrow-png_633167.png": {
+    "time": 1648548857869.835,
+    "uuid": "596eec03-e2ee-4bf4-a6da-2bb5efb08290",
+    "missing": false
+  },
+  "/Users/chandan/DragonCard_Cocos/aGod/assets/texture/Home/backButton.png.meta": {
+    "time": 1648548999182.5361
+  },
+  "/Users/chandan/DragonCard_Cocos/aGod/assets/texture/Home/backButton.png": {
+    "time": 1648548999168.9563,
+    "uuid": "1e171b96-9a52-4843-b13a-7d73977f6b1f",
+    "missing": false
+  },
+  "/Users/chandan/DragonCard_Cocos/aGod/assets/texture/Home/BattleFieldBackground.jpeg.meta": {
+    "time": 1648549174983.6494
+  },
+  "/Users/chandan/DragonCard_Cocos/aGod/assets/texture/Home/BattleFieldBackground.jpeg": {
+    "time": 1648549174938.49,
+    "uuid": "9841d3a7-e53c-4b41-be27-4943b856ea4b",
+    "missing": false
+  },
+  "/Users/chandan/DragonCard_Cocos/aGod/assets/texture/Home/gameButtons.png.meta": {
+    "time": 1648549513436.2615
+  },
+  "/Users/chandan/DragonCard_Cocos/aGod/assets/texture/Home/gameButtons.png": {
+    "time": 1648549512026.252,
+    "uuid": "a3535148-aa33-4175-8752-7192af6931b6",
+    "missing": false
+  }
+}
